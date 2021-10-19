@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Trending Github Repos</string>
+    <string name="trending_github_repositories_last_week">Trending Github repositories last week</string>
 </resources>
