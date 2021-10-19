@@ -64,7 +64,7 @@ class DataRepository {
         private class NetworkInterceptor: Interceptor {
 
             override fun intercept(chain: Interceptor.Chain?): Response {
-                return chain!!.proceed(chain.request().newBuilder().header("Authorization", "Bearer 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").build())
+                return chain!!.proceed(chain.request().newBuilder().header("Authorization", "Bearer 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").build())
             }
         }
 
